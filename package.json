@@ -1,0 +1,19 @@
+{
+  "name": "jq-options",
+  "version": "0.0.1",
+  "description": "Dynamically create options of a select form element",
+  "main": "jquery.options.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cizar/jq-options.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cizar/jq-options/issues"
+  },
+  "homepage": "https://github.com/cizar/jq-options#readme"
+}

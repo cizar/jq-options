@@ -1,0 +1,19 @@
+{
+  "name": "jq-options",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cizar/jq-options",
+  "authors": [
+    "Cesar Kastli <cesarkastli@gmail.com>"
+  ],
+  "description": "Dynamically create options of a select form element",
+  "main": "jquery.options.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
