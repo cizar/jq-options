@@ -14,6 +14,9 @@
   $.fn[pluginName] = function(options, blankOption) {
     return this.each(function() {
       var $elem = $(this).empty();
+      if ($elem.data('blank-option')) {
+        blankOption = $elem.data('blank-option');
+      }
       if (blankOption) {
         $elem.append(new Option(blankOption, ''));
       }
